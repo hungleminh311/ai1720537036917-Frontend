@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience.",
+        "title": "Drive Your Journey with Confidence"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Journey with Confidence",
+  "subtitle": "Exquisite Cars for Every Occasion. Professional Service for Unmatched Convenience."
+}
